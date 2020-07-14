@@ -1,4 +1,4 @@
-# King And Pigs
+# King And Pigs-龟速更新中
 
 这个小游戏是我从itch.io上找到的一些2D资源拼装而成的一个2D游戏DEMO，主要的创作目的是为了学习Unity 中的TileMap和一些2D方面的技术。我会将在这个过程中学到的知识做一个记录和总结。
 
